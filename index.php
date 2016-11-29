@@ -1,1 +1,1 @@
-<?phpecho 1
+<?phpecho 2
